@@ -1,4 +1,4 @@
-package com.com.javapractice.programs;
+package com.javapractice.programs;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

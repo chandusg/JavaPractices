@@ -1,4 +1,4 @@
-package com.com.javapractice.programs;
+package com.javapractice.programs;
 
 public class Date {
 	
