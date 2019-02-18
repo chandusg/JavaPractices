@@ -1,4 +1,4 @@
-package com.javapracticeMyOwn;
+package com.javapractice.programs;
 
 public class DuplicateStringUsingHashMap {
 
